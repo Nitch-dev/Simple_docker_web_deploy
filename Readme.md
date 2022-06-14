@@ -11,6 +11,7 @@ docker run -it server
 -----------------------------------------
 
 #goto
+
 localhost:1000
 and you can now visit your site
 
