@@ -6,7 +6,7 @@ docker build -t server .
 
 #now run the docker
 
-docker run -it server 
+docker run -itp 1000:1000 server 
 
 -----------------------------------------
 
